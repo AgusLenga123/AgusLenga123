@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**AgusLenga123/AgusLenga123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-- My name is Agustin Lenga, I am 20 years old. 
+-- I am from Argentina, Buenos Aires
+-- Currently learning Mobile App Development with Flutter
+-- Experience in Cybersecurity + Data Analytics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are some facts about me!
+- 🌱 I’m currently learning flutter development
+- 👯 I’m looking to collaborate on any projects that allow me to grow profesionally!
+- 📫 How to reach me: ..
+    * email = agustinlenga@gmail.com
+    * Linkedin = [Agustinlenga](https://www.linkedin.com/in/agust%C3%ADn-lenga-48b220207/?locale=en_US)
+ 
+Thats all! Thank you for visiting :D 
