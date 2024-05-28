@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 - My name is Agustin Lenga, I am 20 years old. 
-- I am from Argentina, Buenos Aires
-- Currently learning Mobile App Development with Flutter
-- Experience in Cybersecurity + Data Analytics
+- I am from Argentina, Buenos Aires :flag_ar:
+- My passions are Football, Music and Entrepreneurship 🚀
 
 These are some facts about me!
 - 🌱 I’m currently learning flutter development
+- 💻 Experience in Cybersecurity + Data Analytics
 - 👯 I’m looking to collaborate on any projects that allow me to grow profesionally!
 - 📫 How to reach me: ..
     * email = agustinlenga@gmail.com
