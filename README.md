@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - My name is Agustin Lenga, I am 20 years old. 
-- I am from Argentina, Buenos Aires :ar:
+- I am from Buenos Aires, Argentina 
 - My passions are Football, Music and Entrepreneurship 🚀
 
 These are some facts about me!
