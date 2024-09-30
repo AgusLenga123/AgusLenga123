@@ -5,8 +5,8 @@
 - My passions are Football, Music and Entrepreneurship 🚀
 
 These are some facts about me!
-- 🌱 I’m currently learning flutter development
-- 💻 Experience in Cybersecurity + Data Analytics
+- 🌱 I’m currently enhancing my Analytics tools usage such as Pandas, Matplotlib, PowerBI, among others
+- 💻 Experience in Cybersecurity + Data Analytics (1 year total)
 - 👯 I’m looking to collaborate on any projects that allow me to grow profesionally!
 - 📫 How to reach me: ..
     * email = agustinlenga@gmail.com
