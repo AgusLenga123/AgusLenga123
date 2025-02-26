@@ -5,7 +5,7 @@
 - My passions are Football, Music and Entrepreneurship 🚀
 
 These are some facts about me!
-- 🌱 I’m currently enhancing my Analytics tools usage such as Pandas, Matplotlib, PowerBI, among others
+- 🌱 I’m currently learning about software, such as backendDev, gameDev, etc
 - 💻 Experience in Cybersecurity + Data Analytics (1 year total)
 - 👯 I’m looking to collaborate on any projects that allow me to grow profesionally!
 - 📫 How to reach me: ..
